@@ -1,0 +1,10 @@
+/vendor
+/.idea
+/.nova
+/.vscode
+/.zed
+coverage.xml
+
+
+composer.phar
+/vendor/
